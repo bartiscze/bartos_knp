@@ -1,0 +1,37 @@
+body
+{
+background-color: burlywood;
+text-align: center;
+}
+.vyber
+{
+    text-align: center;
+    height: 480px;
+    width: 25%;
+    border-style: groove;
+    font-size: 35px;
+    background-color: azure;
+    font-size: 200%;
+}
+.vysledek
+{
+    text-align: center;
+    border-style: dotted;
+    background-color: azure;
+    height: 135px;
+    width: 25%;
+    
+
+}.nadpis
+{
+font-size: xx-large;
+
+}
+.skore
+{
+    border-style: double;
+    border-radius: 20px;
+    height: 135px;
+    width: 25%;
+    background-color: lime;
+}
